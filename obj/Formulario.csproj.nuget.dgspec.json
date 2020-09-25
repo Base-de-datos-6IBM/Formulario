@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\airyc\\Documents\\GitHub\\Formulario\\Formulario.csproj": {}
+    "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario\\Formulario.csproj": {}
   },
   "projects": {
-    "C:\\Users\\airyc\\Documents\\GitHub\\Formulario\\Formulario.csproj": {
+    "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario\\Formulario.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\airyc\\Documents\\GitHub\\Formulario\\Formulario.csproj",
+        "projectUniqueName": "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario\\Formulario.csproj",
         "projectName": "Formulario",
-        "projectPath": "C:\\Users\\airyc\\Documents\\GitHub\\Formulario\\Formulario.csproj",
-        "packagesPath": "C:\\Users\\airyc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\airyc\\Documents\\GitHub\\Formulario\\obj\\",
+        "projectPath": "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario\\Formulario.csproj",
+        "packagesPath": "C:\\Users\\romar\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\romar\\Desktop\\RepoTarea\\Formulario\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\airyc\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\romar\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -31,11 +31,11 @@ namespace Formulario
 
 
             int x, y, z;
-            x = edad;
-            y = 17;
-            z = 18;
+            x = edad;// podemos trabajar directamente con edad
+            y = 17;// Variable Inecesaria
+            z = 18;// Variable Inecesaria
             {
-                if (x < y)
+                if (edad < 17)
                 {
                     Console.WriteLine("Eres un chaneque, vete a la zona de los pequeñines");
                 }
