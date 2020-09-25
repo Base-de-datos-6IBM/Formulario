@@ -1,0 +1,13 @@
+C:\Users\airyc\source\repos\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.exe
+C:\Users\airyc\source\repos\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.deps.json
+C:\Users\airyc\source\repos\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.json
+C:\Users\airyc\source\repos\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.runtimeconfig.dev.json
+C:\Users\airyc\source\repos\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.dll
+C:\Users\airyc\source\repos\Formulario\Formulario\bin\Debug\netcoreapp3.1\Formulario.pdb
+C:\Users\airyc\source\repos\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csprojAssemblyReference.cache
+C:\Users\airyc\source\repos\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfoInputs.cache
+C:\Users\airyc\source\repos\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfo.cs
+C:\Users\airyc\source\repos\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\airyc\source\repos\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.dll
+C:\Users\airyc\source\repos\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.pdb
+C:\Users\airyc\source\repos\Formulario\Formulario\obj\Debug\netcoreapp3.1\Formulario.genruntimeconfig.cache
