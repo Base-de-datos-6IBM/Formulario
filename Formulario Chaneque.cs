@@ -1,6 +1,7 @@
 ﻿using System;
+using System.Security.Cryptography.X509Certificates;
 
-namespace Formulario
+namespace 99
 {
     class Program
     {
@@ -51,7 +52,6 @@ namespace Formulario
                 Console.WriteLine(ocupacion);
                 Console.WriteLine(edad);
             }
-
         }
     }
 }

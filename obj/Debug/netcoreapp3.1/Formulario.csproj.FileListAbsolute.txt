@@ -17,3 +17,9 @@ C:\Users\lizzc\OneDrive\Documentos\Base de datos\Formulario\obj\Debug\netcoreapp
 C:\Users\lizzc\OneDrive\Documentos\Base de datos\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CoreCompileInputs.cache
 C:\Users\lizzc\OneDrive\Documentos\Base de datos\Formulario\obj\Debug\netcoreapp3.1\Formulario.dll
 C:\Users\lizzc\OneDrive\Documentos\Base de datos\Formulario\obj\Debug\netcoreapp3.1\Formulario.pdb
+C:\Users\airyc\Documents\GitHub\Formulario\obj\Debug\netcoreapp3.1\Formulario.csprojAssemblyReference.cache
+C:\Users\airyc\Documents\GitHub\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfoInputs.cache
+C:\Users\airyc\Documents\GitHub\Formulario\obj\Debug\netcoreapp3.1\Formulario.AssemblyInfo.cs
+C:\Users\airyc\Documents\GitHub\Formulario\obj\Debug\netcoreapp3.1\Formulario.csproj.CoreCompileInputs.cache
+C:\Users\airyc\Documents\GitHub\Formulario\obj\Debug\netcoreapp3.1\Formulario.dll
+C:\Users\airyc\Documents\GitHub\Formulario\obj\Debug\netcoreapp3.1\Formulario.pdb
