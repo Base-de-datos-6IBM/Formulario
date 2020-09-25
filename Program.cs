@@ -12,7 +12,7 @@ namespace Formulario
             Console.WriteLine();
             int edad;
             Console.WriteLine("Escriba su edad, por favor: ");
-            edad = Console.ReadLine();
+            edad = Convert.ToInt32(Console.ReadLine()); //Faltaba el Convert
             Console.WriteLine();
             String telefono;
             Console.WriteLine("Escriba su numero de telefono, por favor: ");
